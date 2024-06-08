@@ -1,6 +1,6 @@
 
 import java.util.*;
-class upendra{
+class sumanth{
  public static void main(String...args){
   try{
   int a,b;
