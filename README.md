@@ -1,1 +1,1 @@
-# wipro-talentnext
+# WiproTalentNext
